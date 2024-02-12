@@ -4,6 +4,10 @@ This setup is an improvement to the project , where we deploy our app on EC2, an
 
 However, in this project, we will still be using AWS services, but it will be base on platform as a Service (PaaS), this means we will not be creating ec2 and deploy app in them manually, we will be using AWS services directly with no concern about the underline ec2, example of those services include RDS, elastic beanstalk, memcache etc. 
 
+### Project Design:
+
+![Project Design](Images/Project-Design.png)
+
 We will be using AWS cloud managed service.
 
 ## Sevices to be used for this project
@@ -47,7 +51,7 @@ We will be using AWS cloud managed service.
 
 * After creating the rds, you will need to connected to it, that is why pem key must be attache to the rds.
 
-![RDS-created](RDS-created.png)
+![RDS-created](Images/RDS-created.png)
 
 Clone the source code the local system 
 
@@ -83,6 +87,6 @@ Remember to update this [file](vprofile-project/src/main/resources/application.p
 
 **Final project output**
 
-![Project-output](Finalprojectsite2.png)
+![Project-output](Images/Finalprojectsite2.png)
 
-![Project-output2](Finalprojectsite2.png)
+![Project-output2](Images/Finalprojectsite1.png)
