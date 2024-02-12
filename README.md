@@ -87,6 +87,7 @@ Remember to update this [file](vprofile-project/src/main/resources/application.p
 
 **Final project output**
 
-![Project-output](Images/Finalprojectsite2.png)
 
-![Project-output2](Images/Finalprojectsite1.png)
+![Project-output1](Images/Finalprojectsite1.png)
+
+![Project-output2](Images/Finalprojectsite2.png)
